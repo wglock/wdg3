@@ -4,14 +4,22 @@ body {
 	font-family: "Open Sans";
 	font-size: 18px;
 
-
-
 }
+
+
+
+
+a{
+	color: grey;
+	font-style: italic;
+}
+
+
 
 
 h1{
 	/* 
-		This is how we comment in style
+		This is how we comment in css style
 	*/
 	text-align: center;
 	font-family: "Poppins";
@@ -19,6 +27,7 @@ h1{
 	color: black;
 	
 }
+
 
 
 
@@ -30,8 +39,11 @@ h2{
 }
 
 
+
 h3{
-	color: grey;
+	color: 	#0099cc;
 	border-style: dashed;
 }
+
+
 
