@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<!-- Global Site Tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
+		<script>
+	  		window.dataLayer = window.dataLayer || [];
+	  		function gtag(){dataLayer.push(arguments);}
+	  		gtag('js', new Date());
+	  		gtag('config', 'GA_TRACKING_ID');
+		</script>
+
+
+		<!-- give the doc a title-->
+		<title>WDG3 ENP-162</title>
+
+		<!-- give page a title on the tab --> 
+		<title> WDG3 </title>
+
+		<!-- Declare character code to be -->
+		<meta charset="UTF-8"/>
+
+		<!-- stylesheet-->
+		<link href="style.css" rel="stylesheet">
+		
+		<!-- for the fontssss-->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans|Poppins:700" rel="stylesheet">
+</head>
+
+<body>
+	<!-- Header for my digital portfolio-->
+		<h1> ENP-162 </h1>
+		<h2> 
+			<span style="word-spacing: 40px">
+				<a href= "https://wglock.github.io/wdg3/index.html" 
+				   style="text-decoration: none"> Home </a>
+			</span>
+			
+			<span style="word-spacing: 40px">
+				<a href= "https://wglock.github.io/wdg3/blog.html" 
+				   style="text-decoration: none"> Blog </a>
+			</span>
+			
+			<span style="word-spacing: 40px">	
+				<a href= "https://wglock.github.io/wdg3/hps.html" 
+				   style="text-decoration: none"> HPS  </a>
+			</span>
+			
+			<span style="word-spacing: 40px">	
+				<a href= "https://canvas.tufts.edu/eportfolios/91/Adem"
+				   style="text-decoration: none"> COMP-20 </a>
+			</span>
+			
+			<span style="word-spacing: 40px">	
+				<a href= "https://wglock.github.io/wdg3/enp-162.html"
+				   style="text-decoration: none"> ENP-162 </a> 
+			</span>
+		</h2>
+			
+		<!-- This is here to make a box graphic -->
+		<h3> </h3>
+
+		<p> Automation Project</p>
+
+</body>
+</html>
