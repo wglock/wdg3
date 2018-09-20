@@ -1,0 +1,37 @@
+body {
+	
+	color: black;
+	font-family: "Open Sans";
+	font-size: 18px;
+
+
+
+}
+
+
+h1{
+	/* 
+		This is how we comment in style
+	*/
+	text-align: center;
+	font-family: "Poppins";
+	font-size:  90px;
+	color: black;
+	
+}
+
+
+
+h2{
+	text-align: center;
+	font-family: "Poppins";
+	font-size: 30px;
+	color: black;
+}
+
+
+h3{
+	color: grey;
+	border-style: dashed;
+}
+
